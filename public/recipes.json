@@ -1,0 +1,93 @@
+[
+  {
+    "recipeImage": "https://via.placeholder.com/300x200?text=Grilled+Chicken",
+    "recipeId": 1,
+    "recipeName": "Grilled Chicken",
+    "shortDescription": "A delicious grilled chicken recipe, perfect for a summer BBQ.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "1 tsp garlic powder",
+      "1 tsp paprika",
+      "2 tbsp olive oil"
+    ],
+    "preparingTime": "45 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipeImage": "https://via.placeholder.com/300x200?text=Pasta+Carbonara",
+    "recipeId": 2,
+    "recipeName": "Pasta Carbonara",
+    "shortDescription": "A classic Italian pasta dish with a creamy egg-based sauce.",
+    "ingredients": [
+      "200 g spaghetti",
+      "100 g pancetta",
+      "2 eggs",
+      "50 g parmesan cheese",
+      "2 cloves garlic"
+    ],
+    "preparingTime": "25 min",
+    "calories": "400 calories"
+  },
+  {
+    "recipeImage": "https://via.placeholder.com/300x200?text=Vegetable+Curry",
+    "recipeId": 3,
+    "recipeName": "Vegetable Curry",
+    "shortDescription": "A spicy and flavorful vegetable curry made with a mix of seasonal vegetables.",
+    "ingredients": [
+      "200 g carrots",
+      "150 g potatoes",
+      "100 g peas",
+      "1 tbsp curry powder",
+      "400 ml coconut milk"
+    ],
+    "preparingTime": "35 min",
+    "calories": "280 calories"
+  },
+  {
+    "recipeImage": "https://via.placeholder.com/300x200?text=Beef+Tacos",
+    "recipeId": 4,
+    "recipeName": "Beef Tacos",
+    "shortDescription": "Tasty beef tacos with homemade taco seasoning and fresh toppings.",
+    "ingredients": [
+      "400 g ground beef",
+      "8 taco shells",
+      "1 tsp chili powder",
+      "1 tsp cumin",
+      "100 g shredded lettuce",
+      "100 g diced tomatoes"
+    ],
+    "preparingTime": "30 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipeImage": "https://via.placeholder.com/300x200?text=Chocolate+Cake",
+    "recipeId": 5,
+    "recipeName": "Chocolate Cake",
+    "shortDescription": "A rich and moist chocolate cake with creamy chocolate frosting.",
+    "ingredients": [
+      "200 g flour",
+      "200 g sugar",
+      "100 g cocoa powder",
+      "2 eggs",
+      "150 ml milk"
+    ],
+    "preparingTime": "1 hour",
+    "calories": "500 calories"
+  },
+  {
+    "recipeImage": "https://via.placeholder.com/300x200?text=Caesar+Salad",
+    "recipeId": 6,
+    "recipeName": "Caesar Salad",
+    "shortDescription": "A classic Caesar salad with crunchy croutons and a tangy dressing.",
+    "ingredients": [
+      "1 head romaine lettuce",
+      "50 g parmesan cheese",
+      "100 g croutons",
+      "2 tbsp Caesar dressing",
+      "1 tsp lemon juice"
+    ],
+    "preparingTime": "15 min",
+    "calories": "200 calories"
+  }
+]
