@@ -1,6 +1,6 @@
 [
   {
-    "recipeImage": "https://via.placeholder.com/300x200?text=Grilled+Chicken",
+    "recipeImage": "https://hips.hearstapps.com/hmg-prod/images/grilled-chicken-breast-lead-6626cdb0bb5ac.jpg?crop=1xw:1xh;center,top&resize=1200:*",
     "recipeId": 1,
     "recipeName": "Grilled Chicken",
     "shortDescription": "A delicious grilled chicken recipe, perfect for a summer BBQ.",
@@ -11,11 +11,11 @@
       "1 tsp paprika",
       "2 tbsp olive oil"
     ],
-    "preparingTime": "45 min",
-    "calories": "320 calories"
+    "preparingTime": 45,
+    "calories": 320
   },
   {
-    "recipeImage": "https://via.placeholder.com/300x200?text=Pasta+Carbonara",
+    "recipeImage": "https://www.cookingclassy.com/wp-content/uploads/2020/10/spaghetti-carbonara-01-768x1152.jpg",
     "recipeId": 2,
     "recipeName": "Pasta Carbonara",
     "shortDescription": "A classic Italian pasta dish with a creamy egg-based sauce.",
@@ -26,11 +26,11 @@
       "50 g parmesan cheese",
       "2 cloves garlic"
     ],
-    "preparingTime": "25 min",
-    "calories": "400 calories"
+    "preparingTime": 25,
+    "calories": 400
   },
   {
-    "recipeImage": "https://via.placeholder.com/300x200?text=Vegetable+Curry",
+    "recipeImage": "https://www.recipetineats.com/tachyon/2017/07/Vegetable-Curry.jpg?resize=1200%2C1680&zoom=0.5",
     "recipeId": 3,
     "recipeName": "Vegetable Curry",
     "shortDescription": "A spicy and flavorful vegetable curry made with a mix of seasonal vegetables.",
@@ -41,11 +41,11 @@
       "1 tbsp curry powder",
       "400 ml coconut milk"
     ],
-    "preparingTime": "35 min",
-    "calories": "280 calories"
+    "preparingTime": 35,
+    "calories": 280
   },
   {
-    "recipeImage": "https://via.placeholder.com/300x200?text=Beef+Tacos",
+    "recipeImage": "https://feelgoodfoodie.net/wp-content/uploads/2017/04/Ground-Beef-Tacos-9.jpg",
     "recipeId": 4,
     "recipeName": "Beef Tacos",
     "shortDescription": "Tasty beef tacos with homemade taco seasoning and fresh toppings.",
@@ -57,11 +57,11 @@
       "100 g shredded lettuce",
       "100 g diced tomatoes"
     ],
-    "preparingTime": "30 min",
-    "calories": "450 calories"
+    "preparingTime": 30,
+    "calories": 450
   },
   {
-    "recipeImage": "https://via.placeholder.com/300x200?text=Chocolate+Cake",
+    "recipeImage": "https://sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4.jpg",
     "recipeId": 5,
     "recipeName": "Chocolate Cake",
     "shortDescription": "A rich and moist chocolate cake with creamy chocolate frosting.",
@@ -72,11 +72,11 @@
       "2 eggs",
       "150 ml milk"
     ],
-    "preparingTime": "1 hour",
-    "calories": "500 calories"
+    "preparingTime": 1,
+    "calories": 500
   },
   {
-    "recipeImage": "https://via.placeholder.com/300x200?text=Caesar+Salad",
+    "recipeImage": "https://natashaskitchen.com/wp-content/uploads/2019/01/Caesar-Salad-Recipe-3-768x1152.jpg",
     "recipeId": 6,
     "recipeName": "Caesar Salad",
     "shortDescription": "A classic Caesar salad with crunchy croutons and a tangy dressing.",
@@ -87,7 +87,7 @@
       "2 tbsp Caesar dressing",
       "1 tsp lemon juice"
     ],
-    "preparingTime": "15 min",
-    "calories": "200 calories"
+    "preparingTime": 15,
+    "calories": 200
   }
 ]
